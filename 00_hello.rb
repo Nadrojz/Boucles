@@ -5,8 +5,8 @@ def ask_firstname
   return firstname
 end
 
-def say_hello(firstname)
-  puts "Bonjour #{firstname}"
+def say_hello(nom)
+  puts "Bonjour #{nom} !"
   return
 end
 
